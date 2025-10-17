@@ -1,0 +1,379 @@
+{
+  "hero": {
+    "imgUrl": "/images/foto.png",
+    "name": "Nurul Afifah Muthoharoh",
+    "heading": "Hay! I’m Afifah",
+    "typingText": ["I'm a Web Developer", 1500, "I'm IT Enthusias", 1500],
+    "description": "Coding isn't just my job—it's my art. As a woman in programming, I bring ideas to life with creativity, logic, and a little caffeine.",
+    "btnText": "Contact Me",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/nurulafifahmuthoharoh"
+    },
+    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "/" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/nurul-afifah-muthoharoh/"
+    }
+  ],
+  "brands": [
+    
+  ],
+  "about": {
+    "imgSrc": "/images/poto2.png",
+    "miniTitle": "5 Years Experience",
+    "title": "I'M Available TO <span>Software Development</span>",
+    "description": "I’m a passionate software developer who loves building creative, efficient, and user-friendly digital solutions.",
+    "skills": [
+      { "title": "Web Development", "percentage": 92 },
+      { "title": "Mobile App Development", "percentage": 88 },
+      { "title": "Web Design & UI/UX", "percentage": 90 },
+      { "title": "App Interface Design", "percentage": 85 },
+      { "title": "Robotic Development", "percentage": 80 },
+      { "title": "Machine Learning & AI", "percentage": 83 }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+      "thumbUrl": "/images/8.png",
+      "title": "WEB BUMDES",
+      "subTitle": "Website Development",
+      "details": {
+        "title": "BUMDes Bogoharjo Web Platform",
+        "description": "A business and information management website for BUMDes Bogoharjo. The system integrates product management, user accounts, and online service information to improve local digitalization.",
+        "type": "Website",
+        "langages": "PHP, MySQL, HTML, CSS, JavaScript",
+        "platform": "Web",
+        "country": "Indonesia",
+        "url": "#"
+      }
+    },
+    {
+      "thumbUrl": "/images/2.png",
+      "title": "RESTO INDO APPS",
+      "subTitle": "Food Ordering App",
+      "details": {
+        "title": "Resto Indo – Online Food Ordering App",
+        "description": "A complete online food ordering system featuring menu browsing, cart, payment gateway, and order tracking. Designed to support local restaurants' digital transformation.",
+        "type": "Mobile App",
+        "langages": "Flutter, Node.js, Firebase",
+        "platform": "Android",
+        "country": "Indonesia",
+        "url": "#"
+      }
+    },
+    {
+      "thumbUrl": "/images/14.png",
+      "title": "Glow Apps",
+      "subTitle": "Android Application",
+      "details": {
+        "title": "GLOW adalah aplikasi jurnal kesehatan remaja ",
+        "description": "A mobile learning app designed to help students learn Javanese dialogue and culture interactively. Includes material, quizzes, and writing exercises with gamified learning experiences.",
+        "type": "Mobile App",
+        "langages": "Kotlin, Android Studio",
+        "platform": "Android",
+        "country": "Indonesia",
+        "url": "#"
+      }
+    },
+  
+    {
+      "thumbUrl": "/images/13.png",
+      "title": "WEBSITE BERITA",
+      "subTitle": "Web Portal Development",
+      "details": {
+        "title": "News & Information Portal for Vokal Pers",
+        "description": "A responsive online news portal that allows Vokal pers admins to post and manage public information easily. Includes tagging, article management, and modern UI.",
+        "type": "Website",
+        "langages": "CodeIgniter, Bootstrap, MySQL",
+        "platform": "Web",
+        "country": "Indonesia",
+        "url": "#"
+      }
+    },
+    
+    {
+      "thumbUrl": "/images/3.png",
+      "title": "G-THOS",
+      "subTitle": "Public Service App",
+      "details": {
+        "title": "G-THOS – Green Technology System Semarang",
+        "description": "A mobile public service app developed for the Semarang government to promote eco-friendly initiatives. Includes features like public profiles, legal resources, and waste management.",
+        "type": "Mobile App",
+        "langages": "Kotlin, Firebase, REST API",
+        "platform": "Android",
+        "country": "Indonesia",
+        "url": "#"
+      }
+    },
+    {
+      "thumbUrl": "/images/4.png",
+      "title": "MENTION",
+      "subTitle": "Mental Health Chat App",
+      "details": {
+        "title": "MenTion – Mental Health Education App",
+        "description": "A chat-based application built to educate users about mental health awareness. Provides chat simulation, articles, and health resources using a friendly interface.",
+        "type": "Mobile App",
+        "langages": "Kotlin, Firebase, Figma",
+        "platform": "Android",
+        "country": "Indonesia",
+        "url": "#"
+      }
+    },
+    {
+      "thumbUrl": "/images/6.png",
+      "title": "BU DEVI",
+      "subTitle": "Digital Village Service",
+      "details": {
+        "title": "BU DEVI – Bulusari Digital Village",
+        "description": "A smart village mobile service application that allows residents to request digital letters, permits, and reports directly through their phones. Supports e-government initiatives.",
+        "type": "Mobile App",
+        "langages": "Flutter, Laravel API, MySQL",
+        "platform": "Android",
+        "country": "Indonesia",
+        "url": "#"
+      }
+    },
+    {
+    "thumbUrl": "/images/9.png",
+    "title": "Website Berita",
+    "subTitle": "News Information Portal",
+    "details": {
+      "title": "Website Berita – Portal Informasi dan Publikasi",
+      "description": "Sebuah portal berita yang menampilkan berbagai informasi terkini dengan sistem manajemen artikel yang mudah digunakan. Dibangun untuk membantu publikasi digital dengan tampilan modern dan user-friendly.",
+      "type": "Website",
+      "langages": "CodeIgniter, Bootstrap, MySQL",
+      "platform": "Web",
+      "country": "Indonesia",
+      "url": "#"
+    }
+  },
+  {
+    "thumbUrl": "/images/10.png",
+    "title": "Booking Ticket Pendakian",
+    "subTitle": "Online Reservation System",
+    "details": {
+      "title": "Booking Ticket Pendakian – Sistem Pemesanan Online",
+      "description": "Aplikasi web yang memudahkan pengguna untuk memesan tiket pendakian secara online. Dilengkapi fitur jadwal pendakian, pembayaran online, dan konfirmasi otomatis.",
+      "type": "Website",
+      "langages": "Laravel, TailwindCSS, MySQL",
+      "platform": "Web",
+      "country": "Indonesia",
+      "url": "#"
+    }
+  },
+  {
+    "thumbUrl": "/images/11.png",
+    "title": "Web Booking Makeup",
+    "subTitle": "Beauty Service Platform",
+    "details": {
+      "title": "Web Booking Makeup – Layanan Pemesanan Makeup Online",
+      "description": "Sebuah website untuk memesan jasa makeup secara online. Pengguna dapat memilih makeup artist, menentukan jadwal, dan melakukan pemesanan langsung dengan tampilan modern dan profesional.",
+      "type": "Website",
+      "langages": "React, TailwindCSS, Firebase",
+      "platform": "Web",
+      "country": "Indonesia",
+      "url": "#"
+    }
+  },
+  {
+    "thumbUrl": "/images/12.png",
+    "title": "Web Pemesanan",
+    "subTitle": "Company Service Platform",
+    "details": {
+      "title": "Web Pemesanan – Sistem Pemesanan Online Terpadu",
+      "description": "Website pemesanan online serbaguna yang memungkinkan pelanggan melakukan pemesanan produk atau layanan dengan mudah. Dibangun dengan tampilan interaktif dan sistem backend yang kuat.",
+      "type": "Website",
+      "langages": "React, Bootstrap, Node.js",
+      "platform": "Web",
+      "country": "Indonesia",
+      "url": "#"
+    }
+  }
+  ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "Website Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "Website Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "SEO Marketing",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "sectionHeading": {
+  "miniTitle": "My Resume",
+  "title": "Working Experience"
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "My Resume",
+      "title": "Experience"
+    },
+    "allExperience": [
+      {
+        "designation": "Author of the Book",
+        "company": "Easy Build Your App with Android Studio",
+        "duration": "2019",
+        "jobType": "Book Publication",
+        "companyTitle": "ISBN 978-602-5880-20-9",
+        "companyDescription": "Conducted extensive research on Android Studio, app development techniques, and best practices to provide up-to-date information. Authored in-depth tutorials and examples to guide readers through building Android apps from scratch."
+      },
+      {
+        "designation": "Internship Fullstack Developer",
+        "company": "Axioo Class Program",
+        "duration": "2020",
+        "jobType": "Internship",
+        "companyTitle": "Fullstack Web & Mobile Development",
+        "companyDescription": "Developed RESTful APIs for web and mobile integration, enhancing performance and scalability. Built a custom UI library for better code reuse and developer productivity. Implemented backend services using Node.js and Express for efficient data management."
+      },
+      {
+        "designation": "Android Developer Path",
+        "company": "Bangkit Academy by Google, GoTo, & Traveloka",
+        "duration": "2023",
+        "jobType": "Certified Learning Program",
+        "companyTitle": "Android Path Learning Program",
+        "companyDescription": "Completed a comprehensive curriculum on Android app development, covering Java, Kotlin, MVVM architecture, and Firebase integration. Built and deployed Android applications following best industry practices."
+      },
+      {
+        "designation": "Software Development",
+        "company": "Ladang IT",
+        "duration": "2022 - Present",
+        "jobType": "Freelance",
+        "companyTitle": "Softwrare Development Services",
+        "companyDescription": "Founder and lead developer at Ladang IT, a freelance software development service. Responsible for building custom web and mobile applications for clients using modern frameworks. Focused on delivering efficient, user-friendly, and scalable digital solutions while managing projects independently from planning to deployment."
+      },
+      {
+        "designation": "Web Developer",
+        "company": "SPEC Toolbox",
+        "duration": "2025 - Present",
+        "jobType": "Full-Time",
+        "companyTitle": "Frontend & Backend Development",
+        "companyDescription": "Responsible for developing and maintaining company web applications using modern technologies. Collaborating with designers and backend teams to deliver responsive, efficient, and scalable solutions."
+      }
+    ]
+  },
+  "education": {
+  "sectionHeading": {
+    "miniTitle": "Education",
+    "title": "My Education Journey"
+  },
+  "allEducation": [
+    {
+      "degree": "Network Computer Engineering",
+      "school": "SMK N 1 Rembang",
+      "duration": "2016 - 2019",
+      "description": "Studied computer networking, hardware maintenance, and system administration. Developed foundational skills in programming and IT infrastructure."
+    },
+    {
+      "degree": "Bachelor of Information Technology Education",
+      "school": "Universitas PGRI Semarang",
+      "duration": "2019 - 2024",
+      "description": "Focused on teaching and educational technology while actively practicing software and web development. Experienced in guiding students in IT subjects, creating digital learning media, and developing real-world applications as part of practical teaching."
+    }
+  ]
+},
+
+"award": {
+  "sectionHeading": {
+    "miniTitle": "Award",
+    "title": "Achievements & Recognitions"
+  },
+  "allAward": [
+    {
+      "title": "Finalist of Semarang City Bappeda Krenova Competition 2021",
+      "description": "Selected as one of the top innovative projects in Semarang City."
+    },
+    {
+      "title": "Passed the 2022 Innovation Talent Program Funding",
+      "description": "Received funding support for innovative student research."
+    },
+    {
+      "title": "Indonesian Thematic Robot Contest 2022, 2023",
+      "description": "Participated and represented campus in the national robotics competition."
+    },
+    {
+      "title": "Passed Funding for Innovative Work Student Creativity Program 2023",
+      "description": "Awarded funding under the Student Creativity Program (PKM) for technological innovation."
+    }
+  ]
+},
+
+
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/foto3.png",
+    "contactInfo": [
+      { "title": "E-mail", "email": "nurulafifahmuthoharoh@gmail.com" },
+      { "title": "WhatsApp", "tel": "08996544182" }
+    ]
+  }
+}
